@@ -30,8 +30,8 @@ I bring a versatile skillset and expertise with the following tools and technolo
 - Managing databases and ensuring data accuracy.  
 
 ### 3. **Advanced Excel**  
-- Leveraging advanced formulas, pivot tables, and data visualization.  
-- Automating workflows with macros and VBA.  
+- Proficient in data cleaning, analysis, and automation.
+- Using pivot tables, Power Query, and complex formulas to drive insights.
 
 ### 4. **Python**  
 - Data manipulation, analysis and visualization using Pandas, NumPy, Matplotlib and Seaborn.  
