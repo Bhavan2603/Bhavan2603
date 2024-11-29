@@ -51,7 +51,7 @@ I bring a versatile skillset and expertise with the following tools and technolo
 
 I’m always open to discussing data projects, collaborating on ideas, or learning new things. Reach out or check out my repositories to explore some of my work!  
   
-- 💼 [LinkedIn](in/bhavan-s-071644301)  
+- 💼 [LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavan%20S-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/bhavan-s-071644301?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO4LxxuWUQ9Oi5KblDL4aKA%3D%3D))  
 - [Mail_id](bhavan.2603@gmail.com)
 
 ---
