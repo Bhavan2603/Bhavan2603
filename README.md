@@ -52,7 +52,7 @@ I bring a versatile skillset and expertise with the following tools and technolo
 I’m always open to discussing data projects, collaborating on ideas, or learning new things. Reach out or check out my repositories to explore some of my work!  
   
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhavan-s-071644301)  
-- [Mail_id](bhavan.2603@gmail.com)
+- [Mail_id](https://mail.google.com/mail/u/0/?pli=1#inbox)
 
 ---
 
